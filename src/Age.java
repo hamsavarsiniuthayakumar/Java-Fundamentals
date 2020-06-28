@@ -19,7 +19,7 @@ public class Age {
 		else {
 			System.out.println("10.5%");
 		}
-		//https://www.slideshare.net/ShalabhChaudhary1/java-fundamentals-120581970
+		
 
 	}
 
